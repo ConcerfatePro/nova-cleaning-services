@@ -6,9 +6,13 @@ A **frontend-only** marketing page for a fictional home cleaning company. It tar
 
 Coming soon.
 
-## Screenshot
+## Video demo
 
-Coming soon.
+Screen recording of the UI in motion (WebM, committed in this repo):
+
+<video src="public/videos/nova-cleaning-services.webm" controls playsinline muted width="100%"></video>
+
+If the player does not load in your viewer, open [`public/videos/nova-cleaning-services.webm`](./public/videos/nova-cleaning-services.webm) locally or via **Raw** on GitHub.
 
 ## Features
 
@@ -38,4 +42,3 @@ npm run dev
 - Add scheduling widget and live chat stub
 - Blog / tips section for SEO
 - Admin-editable pricing via CMS
-# nova-cleaning-services
