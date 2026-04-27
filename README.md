@@ -8,7 +8,7 @@ Coming soon.
 
 ## Video demo
 
-Screen recording of the UI in motion (WebM, committed in this repo):
+Screen recording of the UI in motion (WebM, committed in this repo; trimmed slightly so the file stays under **25 MiB** for static hosts such as Cloudflare Pages):
 
 <video src="demo/nova-cleaning-services.webm" controls playsinline muted width="100%"></video>
 
